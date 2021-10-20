@@ -1,1 +1,1 @@
-This is ALexis' first git project!
+This is Alexis' first git project!
